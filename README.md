@@ -1,2 +1,0 @@
-# Computer-architecture-
-Aat1
